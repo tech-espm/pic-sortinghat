@@ -1,6 +1,6 @@
-# The Sorting Hat - A Neural Network Aproach #
+# SortingHat - A Neural Network Aproach #
 
-This Artificial Neural Network was developed in the IntelliJ IDE 2017.3.4 and using Java 1.8 for recognise, based on inputs, plants of the family _Iris_.
+This Artificial Neural Network was developed in the IntelliJ IDE 2017.3.4 and using Java 1.9 for recognise, based on inputs, the specialization fields at ESPM.
 
 -----------------------------------------------
 
