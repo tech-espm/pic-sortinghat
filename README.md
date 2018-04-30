@@ -1,6 +1,6 @@
 # SortingHat - A Neural Network Aproach #
 
-This Artificial Neural Network was developed in the IntelliJ IDE 2017.3.4 and using Java 1.9 for recognise, based on inputs, the specialization fields at ESPM.
+This Artificial Neural Network was developed in the IntelliJ IDE 2017.3.4 and using Java 1.9 for recognise, based on inputs, the specialization fields at ESPM Information System (TECH) students.
 
 -----------------------------------------------
 
