@@ -32,6 +32,5 @@ public class Training {
 
         hli = ponderationL1.ponderationL1(n, inputValues, minValue, hli, wl1);
 
-
     }
 }
