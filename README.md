@@ -1,12 +1,12 @@
 # SortingHat - A Neural Network Aproach #
 
-This Artificial Neural Network was developed in the IntelliJ IDE 2017.3.4 and using Java 1.9 for recognise, based on inputs, the specialization fields at ESPM Information System (TECH) students.
+This Artificial Neural Network was developed in the IntelliJ IDE 2018.1 and using Java 1.9 for recognise, based on inputs, the specialization fields at ESPM Information System (TECH) students.
 
 -----------------------------------------------
 
 ## Inputs ##
 
-The input layer has __4__ neurons and accept this following normalized values:
+The input layer has __15__ neurons and accept this following normalized values:
 
 * 1. sepal length in cm 
 * 2. sepal width in cm 
@@ -27,7 +27,7 @@ You can find at the packages __paes.training.c1__ or __paes.training.c2__, respe
 * int minValue = 0 - _This variable is responsible for control the input's matrix;_
 * int age = 1 - _This variable is responsible for count the number of ages;_
 
-_Obs: 1 age is equals 120 iterations._
+_Obs: 1 age is equals 84 iterations._
 
 ### Methods ###
 
@@ -55,11 +55,11 @@ _Obs: 1 age is equals 120 iterations._
 
 The output layer has __3__ neurons. The following combination represents one of the multiples outputs, that can be printed by the RNA.
 
-* _Iris-Setosa_: 0 0 1;
-* _Iris-Versicolor_: 0 1 0;
-* _Iris-Virginica_: 1 0 0';
-* _Unidentified Species detected!_: 0 0 0;
-* _Unidentified Species detected!_: 1 1 1.
+* _Business Intelligence - BI_: 0 0 1;
+* _Mobile Development - DEV_: 0 1 0;
+* _Games_: 1 0 0';
+* _Unidentified Spec Field detected!_: 0 0 0;
+* _Unidentified Spec Field detected!_: 1 1 1.
 
 ----------------------------
 
