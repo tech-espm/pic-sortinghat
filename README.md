@@ -79,35 +79,26 @@ The output layer has __3__ neurons. The following combination represents one of 
 #### Sigmoid Function ####
 
 * __2 Neurons:__
-  * _NaN_;
- 
+
 * __3 Neurons:__
-  * 93.33 % Success (28/30 successes);
- 
+
 * __8 Neurons:__
-  * 93.33 % Success (28/30 successes);
 
 #### Hyperbolic Tangent (tanh) ####
 
 * __2 Neurons:__
-  * _NaN_;
  
 * __3 Neurons:__
-  * 3.00 % Success (1/30 successes);
  
 * __8 Neurons:__
-  * 13.33 % Success (4/30 successes);
 
 #### ReLU (Rectified linear unit) ####
 
 * __2 Neurons:__
-  * _Time Exception_;
  
 * __3 Neurons:__
-  * _Time Exception_;
  
 * __8 Neurons:__
-  * _Time Exception_;
   
  ___Obs:___ 
  * _NaN: Incapacibility of achieving a Numeric Value. Probably because the flutuant pointer has exploded_;
@@ -119,35 +110,26 @@ The output layer has __3__ neurons. The following combination represents one of 
 #### Sigmoid Function ####
 
 * __2 Neurons:__
-  * _NaN_;
  
 * __3 Neurons:__
-  * _NaN_;
  
 * __8 Neurons:__
-  * 33.33 % Success (10/30 successes);
 
 #### Hyperbolic Tangent (tanh) ####
 
 * __2 Neurons:__
-  * _Time Exception_;
  
 * __3 Neurons:__
-  * _Time Exception_;
  
 * __8 Neurons:__
-  * 0.00 % Success (0/30 successes);
 
 #### ReLU (Rectified linear unit) ####
 
 * __2 Neurons:__
-  * _Time Exception_;
  
 * __3 Neurons:__
-  * _Time Exception_;
  
 * __8 Neurons:__
-  * _Time Exception_;
   
  ___Obs:___ 
  * _NaN: Incapacibility of achieving a Numeric Value. Probably because the flutuant pointer has exploded_;
