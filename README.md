@@ -6,12 +6,23 @@ This Artificial Neural Network was developed in the IntelliJ IDE 2018.1 and usin
 
 ## Inputs ##
 
-The input layer has __15__ neurons and accept this following normalized values:
+The input layer has __15__ neurons and accept this following values:
 
-* 1. sepal length in cm 
-* 2. sepal width in cm 
-* 3. petal length in cm 
-* 4. petal width in cm 
+* 1.    Você possui facilidade com as disciplinas de desenvolvimento? (Matérias que, de algum modo, envolvam algoritmos, lógica e programação) 
+* 2.    Você possui facilidade com as disciplinas de gestão?
+* 3.    Você possui facilidade com as disciplinas quantitativas?
+* 4.    Você possui facilidade com as disciplinas de banco de dados?
+* 5.    Você possui facilidade com as disciplinas de design? (Matérias que, de algum modo, envolvam frontend, UX ou animação 3D)   
+* 6.    Você gosta das disciplinas de desenvolvimento? (Matérias que, de algum modo, envolvam algoritmos, lógica e programação)
+* 7.    Você gosta das disciplinas de gestão?
+* 8.    Você gosta das disciplinas quantitativas?
+* 9.    Você gosta das disciplinas de banco de dados?
+* 10.   Você gosta das disciplinas de design? (Matérias que, de algum modo, envolvam frontend, UX ou animação 3D)
+* 11.   Você possui facilidade com raciocínio lógico?
+* 12.   Você possui interesse na resolução de problemas por meio da modelagem ou desenvolvimento de sistemas?
+* 13.   Você possui interesse em entender o funcionamento das mecânicas de jogos?
+* 14.   Você possui interesse na modelagem ou desenvolvimento de jogos/animações?
+* 15.   Você possui interesse na resolução de problemas, baseando-se na extração, manipulação e análise de informações? 
 
 _Obs: You can find the input values at the data folder._
 
