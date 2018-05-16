@@ -8,16 +8,16 @@ This Artificial Neural Network was developed in the IntelliJ IDE 2018.1 and usin
 
 The input layer has __15__ neurons and accept this following values:
 
-* 1.    Você possui facilidade com as disciplinas de desenvolvimento? (Matérias que, de algum modo, envolvam algoritmos, lógica e programação) 
+* 1.    Você possui facilidade com as disciplinas de desenvolvimento? 
 * 2.    Você possui facilidade com as disciplinas de gestão?
 * 3.    Você possui facilidade com as disciplinas quantitativas?
 * 4.    Você possui facilidade com as disciplinas de banco de dados?
-* 5.    Você possui facilidade com as disciplinas de design? (Matérias que, de algum modo, envolvam frontend, UX ou animação 3D)   
-* 6.    Você gosta das disciplinas de desenvolvimento? (Matérias que, de algum modo, envolvam algoritmos, lógica e programação)
+* 5.    Você possui facilidade com as disciplinas de design?   
+* 6.    Você gosta das disciplinas de desenvolvimento?
 * 7.    Você gosta das disciplinas de gestão?
 * 8.    Você gosta das disciplinas quantitativas?
 * 9.    Você gosta das disciplinas de banco de dados?
-* 10.   Você gosta das disciplinas de design? (Matérias que, de algum modo, envolvam frontend, UX ou animação 3D)
+* 10.   Você gosta das disciplinas de design?
 * 11.   Você possui facilidade com raciocínio lógico?
 * 12.   Você possui interesse na resolução de problemas por meio da modelagem ou desenvolvimento de sistemas?
 * 13.   Você possui interesse em entender o funcionamento das mecânicas de jogos?
