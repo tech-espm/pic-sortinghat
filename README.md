@@ -68,7 +68,7 @@ The output layer has __3__ neurons. The following combination represents one of 
 
 * _Business Intelligence - BI_: 0 0 1;
 * _Mobile Development - DEV_: 0 1 0;
-* _Games_: 1 0 0';
+* _Games_: 1 0 0;
 * _Unidentified Spec Field detected!_: 0 0 0;
 * _Unidentified Spec Field detected!_: 1 1 1.
 
