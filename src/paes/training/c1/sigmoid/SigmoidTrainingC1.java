@@ -6,9 +6,9 @@ public class SigmoidTrainingC1 {
     public static void main(String[] args) {
         Random random = new Random(2412);
 
-        int n = 4, minValue = 0, cont = 0, age = 1;
+        int n = 10, minValue = 0, cont = 0, age = 1;
         double sumE = 0, globalError = 0;
-        double alpha = 0.0001, eta = 0.1;
+        double alpha = 0.0001, eta = 0.05;
 
         double[][] inputValues = {
             {0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1}, {1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1},

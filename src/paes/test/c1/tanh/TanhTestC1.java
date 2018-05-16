@@ -1,6 +1,6 @@
-package paes.test.c1.sigmoid;
+package paes.test.c1.tanh;
 
-public class SigmoidTestC1 {
+public class TanhTestC1 {
     public static void main(String[] args) {
         int n = 4, minValue = 0;
         String result = "";
@@ -94,7 +94,7 @@ public class SigmoidTestC1 {
 
     public static double[] activationFunctionL1(double[] hlo, double[] hli) {
         for (int i = 0; i < hlo.length; i++) {
-            hlo[i] = 1/(1 + Math.exp(-hli[i]));
+            hlo[i] = (2/(1 + Math.exp(-2 * hli[i])));
         }
         return hlo;
     }
@@ -110,7 +110,7 @@ public class SigmoidTestC1 {
 
     public static double[] activationFunctionL2(double[] elo, double[] eli) {
         for (int i = 0; i < elo.length; i++) {
-            elo[i] = 1/(1 + Math.exp(-eli[i]));
+            elo[i] = (2/(1 + Math.exp(-2 * eli[i])));
         }
         return elo;
     }

@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="637d772e-e066-4c4d-a3e6-9cef9076c102" name="Default" comment="">
+    <list default="true" id="637d772e-e066-4c4d-a3e6-9cef9076c102" name="Default" comment="Organisation Updates">
+      <change afterPath="$PROJECT_DIR$/src/paes/test/c1/relu/ReluTestC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/paes/test/c1/tanh/TanhTestC1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +21,8 @@
       <file leaf-file-name="SigmoidTrainingC1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="115">
+              <caret line="5" column="43" selection-end-line="264" selection-end-column="1" />
               <folding>
                 <element signature="method#main#0;class#SigmoidTrainingC1#0" />
                 <element signature="method#ponderationL1#0;class#SigmoidTrainingC1#0" />
@@ -35,14 +39,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="506">
-                <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="SigmoidTestC1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="29" column="48" selection-end-line="117" />
+              <folding>
+                <element signature="method#ponderationL1#0;class#SigmoidTestC1#0" />
+                <element signature="method#activationFunctionL1#0;class#SigmoidTestC1#0" />
+                <element signature="method#ponderationL2#0;class#SigmoidTestC1#0" />
+                <element signature="method#activationFunctionL2#0;class#SigmoidTestC1#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReluTestC1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/paes/test/c1/relu/ReluTestC1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="118" selection-start-line="118" selection-end-line="118" />
+              <folding>
+                <element signature="method#main#0;class#ReluTestC1#0" />
+                <element signature="method#ponderationL1#0;class#ReluTestC1#0" />
+                <element signature="method#activationFunctionL1#0;class#ReluTestC1#0" />
+                <element signature="method#ponderationL2#0;class#ReluTestC1#0" />
+                <element signature="method#activationFunctionL2#0;class#ReluTestC1#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TanhTestC1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/paes/test/c1/tanh/TanhTestC1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="112" column="44" selection-start-line="112" selection-start-column="44" selection-end-line="112" selection-end-column="44" />
+              <folding>
+                <element signature="method#main#0;class#ReluTestC1#0" />
+                <element signature="method#ponderationL1#0;class#ReluTestC1#0" />
+                <element signature="method#activationFunctionL1#0;class#ReluTestC1#0" />
+                <element signature="method#ponderationL2#0;class#ReluTestC1#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,11 +105,13 @@
         <option value="$PROJECT_DIR$/src/paes/propagation/ActivationFunctions.java" />
         <option value="$PROJECT_DIR$/src/paes/propagation/PonderationL1.java" />
         <option value="$PROJECT_DIR$/src/paes/training/Training.java" />
-        <option value="$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java" />
-        <option value="$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java" />
         <option value="$PROJECT_DIR$/src/paes/training/c1/relu/ReluTrainingC1.java" />
         <option value="$PROJECT_DIR$/src/paes/training/c1/tanh/TanhTrainingC1.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java" />
+        <option value="$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java" />
+        <option value="$PROJECT_DIR$/src/paes/test/c1/relu/ReluTestC1.java" />
+        <option value="$PROJECT_DIR$/src/paes/test/c1/tanh/TanhTestC1.java" />
       </list>
     </option>
   </component>
@@ -96,6 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -115,12 +156,44 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="paes" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="c1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="c1" type="462c0819:PsiDirectoryNode" />
+              <item name="relu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="c1" type="462c0819:PsiDirectoryNode" />
+              <item name="sigmoid" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,9 +322,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.SigmoidTrainingC1" />
+        <item itemvalue="Application.SigmoidTestC1" />
         <item itemvalue="Application.TanhTrainingC1" />
         <item itemvalue="Application.ReluTrainingC1" />
-        <item itemvalue="Application.SigmoidTestC1" />
         <item itemvalue="Application.Training" />
       </list>
     </recent_temporary>
@@ -288,6 +361,10 @@
       <workItem from="1526425925842" duration="1178000" />
       <workItem from="1526428214251" duration="367000" />
       <workItem from="1526476145494" duration="2653000" />
+      <workItem from="1526479258316" duration="42000" />
+      <workItem from="1526479460773" duration="300000" />
+      <workItem from="1526480833102" duration="2003000" />
+      <workItem from="1526500571711" duration="525000" />
     </task>
     <task id="LOCAL-00001" summary="Organisation Updates">
       <created>1526478824278</created>
@@ -303,11 +380,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526478956774</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Organisation Updates">
+      <created>1526479268061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1526479268061</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19289000" />
+    <option name="totallyTimeSpent" value="22159000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -315,7 +399,6 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -327,7 +410,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29154077" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30513597" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -341,33 +424,34 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3293944" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3293944" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27190334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3293944" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -384,14 +468,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Organisation Updates" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1771">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/paes/test/c1/GeneralTestC1.java" />
     <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -442,20 +518,6 @@
     <entry file="file://$PROJECT_DIR$/src/paes/propagation/ActivationFunctions.java" />
     <entry file="file://$PROJECT_DIR$/src/paes/training/Training.java" />
     <entry file="file://$PROJECT_DIR$/src/paes/test/c1/GeneralTestC1.java" />
-    <entry file="file://$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="110" column="14" selection-start-line="110" selection-start-column="14" selection-end-line="110" selection-end-column="14" />
-          <folding>
-            <element signature="method#main#0;class#SigmoidTestC1#0" />
-            <element signature="method#ponderationL1#0;class#SigmoidTestC1#0" />
-            <element signature="method#activationFunctionL1#0;class#SigmoidTestC1#0" />
-            <element signature="method#ponderationL2#0;class#SigmoidTestC1#0" />
-            <element signature="method#activationFunctionL2#0;class#SigmoidTestC1#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/paes/training/c1/relu/ReluTrainingC1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -494,10 +556,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="430">
+            <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="115">
+          <caret line="5" column="43" selection-end-line="264" selection-end-column="1" />
           <folding>
             <element signature="method#main#0;class#SigmoidTrainingC1#0" />
             <element signature="method#ponderationL1#0;class#SigmoidTrainingC1#0" />
@@ -513,13 +585,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="506">
-            <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="29" column="48" selection-end-line="117" />
+          <folding>
+            <element signature="method#ponderationL1#0;class#SigmoidTestC1#0" />
+            <element signature="method#activationFunctionL1#0;class#SigmoidTestC1#0" />
+            <element signature="method#ponderationL2#0;class#SigmoidTestC1#0" />
+            <element signature="method#activationFunctionL2#0;class#SigmoidTestC1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paes/test/c1/relu/ReluTestC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+          <folding>
+            <element signature="method#main#0;class#ReluTestC1#0" />
+            <element signature="method#ponderationL1#0;class#ReluTestC1#0" />
+            <element signature="method#activationFunctionL1#0;class#ReluTestC1#0" />
+            <element signature="method#ponderationL2#0;class#ReluTestC1#0" />
+            <element signature="method#activationFunctionL2#0;class#ReluTestC1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paes/test/c1/tanh/TanhTestC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="112" column="44" selection-start-line="112" selection-start-column="44" selection-end-line="112" selection-end-column="44" />
+          <folding>
+            <element signature="method#main#0;class#ReluTestC1#0" />
+            <element signature="method#ponderationL1#0;class#ReluTestC1#0" />
+            <element signature="method#activationFunctionL1#0;class#ReluTestC1#0" />
+            <element signature="method#ponderationL2#0;class#ReluTestC1#0" />
+          </folding>
         </state>
       </provider>
     </entry>

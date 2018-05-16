@@ -1,6 +1,6 @@
-package paes.test.c1.sigmoid;
+package paes.test.c1.relu;
 
-public class SigmoidTestC1 {
+public class ReluTestC1 {
     public static void main(String[] args) {
         int n = 4, minValue = 0;
         String result = "";
@@ -94,7 +94,8 @@ public class SigmoidTestC1 {
 
     public static double[] activationFunctionL1(double[] hlo, double[] hli) {
         for (int i = 0; i < hlo.length; i++) {
-            hlo[i] = 1/(1 + Math.exp(-hli[i]));
+            if (hli[i] < 0) hlo[i] = 0;
+            else if (hli[i] >= 0) hlo[i] = hli[i];
         }
         return hlo;
     }
@@ -110,8 +111,8 @@ public class SigmoidTestC1 {
 
     public static double[] activationFunctionL2(double[] elo, double[] eli) {
         for (int i = 0; i < elo.length; i++) {
-            elo[i] = 1/(1 + Math.exp(-eli[i]));
-        }
+            if (eli[i] < 0) elo[i] = 0;
+            else if (eli[i] >= 0) elo[i] = eli[i];        }
         return elo;
     }
 }
