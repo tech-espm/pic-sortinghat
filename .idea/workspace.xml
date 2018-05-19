@@ -83,8 +83,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="95">
-                <caret line="81" column="10" lean-forward="true" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
+              <first_editor relative-caret-position="-1485">
+                <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -113,11 +113,11 @@
         <option value="$PROJECT_DIR$/src/paes/training/Training.java" />
         <option value="$PROJECT_DIR$/src/paes/training/c1/relu/ReluTrainingC1.java" />
         <option value="$PROJECT_DIR$/src/paes/training/c1/tanh/TanhTrainingC1.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java" />
         <option value="$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java" />
         <option value="$PROJECT_DIR$/src/paes/test/c1/relu/ReluTestC1.java" />
         <option value="$PROJECT_DIR$/src/paes/test/c1/tanh/TanhTestC1.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -337,7 +337,7 @@
       <workItem from="1526479258316" duration="42000" />
       <workItem from="1526479460773" duration="300000" />
       <workItem from="1526480833102" duration="2003000" />
-      <workItem from="1526500571711" duration="767000" />
+      <workItem from="1526500571711" duration="1273000" />
     </task>
     <task id="LOCAL-00001" summary="Organisation Updates">
       <created>1526478824278</created>
@@ -367,11 +367,25 @@
       <option name="project" value="LOCAL" />
       <updated>1526502691929</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Organisation Updates">
+      <created>1526502839259</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1526502839259</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Organisation Updates">
+      <created>1526502922543</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1526502922543</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22401000" />
+    <option name="totallyTimeSpent" value="22907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -387,7 +401,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3293944" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293944" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30513597" />
@@ -598,8 +612,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="95">
-            <caret line="81" column="10" lean-forward="true" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
+          <first_editor relative-caret-position="-1485">
+            <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
