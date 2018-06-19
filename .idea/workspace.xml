@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="637d772e-e066-4c4d-a3e6-9cef9076c102" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Sample.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/Sample.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SigmoidTestC1.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SigmoidTestC1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1771">
-              <caret line="77" column="94" selection-start-line="74" selection-start-column="12" selection-end-line="77" selection-end-column="94" />
+            <state relative-caret-position="460">
+              <caret line="20" column="110" selection-start-line="20" selection-start-column="110" selection-end-line="20" selection-end-column="110" />
               <folding>
                 <element signature="method#ponderationL1#0;class#SigmoidTestC1#0" />
                 <element signature="method#activationFunctionL1#0;class#SigmoidTestC1#0" />
@@ -29,13 +31,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SigmoidTrainingC1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SigmoidTrainingC1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="179" lean-forward="true" selection-start-line="179" selection-end-line="179" />
+            <state relative-caret-position="69">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="method#main#0;class#SigmoidTrainingC1#0" />
+                <element signature="method#ponderationL1#0;class#SigmoidTrainingC1#0" />
                 <element signature="method#activationFunctionL1#0;class#SigmoidTrainingC1#0" />
                 <element signature="method#ponderationL2#0;class#SigmoidTrainingC1#0" />
                 <element signature="method#activationFunctionL2#0;class#SigmoidTrainingC1#0" />
@@ -71,13 +74,13 @@
         <option value="$PROJECT_DIR$/src/paes/training/Training.java" />
         <option value="$PROJECT_DIR$/src/paes/training/c1/relu/ReluTrainingC1.java" />
         <option value="$PROJECT_DIR$/src/paes/training/c1/tanh/TanhTrainingC1.java" />
-        <option value="$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java" />
-        <option value="$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java" />
         <option value="$PROJECT_DIR$/src/paes/test/c1/relu/ReluTestC1.java" />
         <option value="$PROJECT_DIR$/src/paes/test/c1/tanh/TanhTestC1.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/paes/training/c2/sigmoid/SigmoidTrainingC2.java" />
         <option value="$PROJECT_DIR$/src/paes/test/c2/sigmoid/SigmoidTestC2.java" />
+        <option value="$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java" />
+        <option value="$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java" />
       </list>
     </option>
   </component>
@@ -221,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SigmoidTestC2">
+  <component name="RunManager" selected="Application.SigmoidTrainingC1">
     <configuration name="SigmoidTestC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="paes.test.c1.sigmoid.SigmoidTestC1" />
       <module name="04.2 - SortingHat" />
@@ -327,9 +330,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SigmoidTrainingC1" />
         <item itemvalue="Application.SigmoidTestC2" />
         <item itemvalue="Application.SigmoidTrainingC2" />
-        <item itemvalue="Application.SigmoidTrainingC1" />
         <item itemvalue="Application.SigmoidTestC1" />
         <item itemvalue="Application.TanhTrainingC1" />
       </list>
@@ -378,6 +381,7 @@
       <workItem from="1527908192144" duration="1297000" />
       <workItem from="1528162682563" duration="179000" />
       <workItem from="1529267443598" duration="29000" />
+      <workItem from="1529421205632" duration="1967000" />
     </task>
     <task id="LOCAL-00001" summary="Organisation Updates">
       <created>1526478824278</created>
@@ -425,7 +429,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25028000" />
+    <option name="totallyTimeSpent" value="26995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -433,6 +437,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3293944" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -454,7 +459,6 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3293944" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -462,17 +466,17 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3293944" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27190334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -482,13 +486,13 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3293944" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27190334" />
+      <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,25 +627,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1771">
-          <caret line="77" column="94" selection-start-line="74" selection-start-column="12" selection-end-line="77" selection-end-column="94" />
-          <folding>
-            <element signature="method#ponderationL1#0;class#SigmoidTestC1#0" />
-            <element signature="method#activationFunctionL1#0;class#SigmoidTestC1#0" />
-            <element signature="method#ponderationL2#0;class#SigmoidTestC1#0" />
-            <element signature="method#activationFunctionL2#0;class#SigmoidTestC1#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="179" lean-forward="true" selection-start-line="179" selection-end-line="179" />
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="method#main#0;class#SigmoidTrainingC1#0" />
+            <element signature="method#ponderationL1#0;class#SigmoidTrainingC1#0" />
             <element signature="method#activationFunctionL1#0;class#SigmoidTrainingC1#0" />
             <element signature="method#ponderationL2#0;class#SigmoidTrainingC1#0" />
             <element signature="method#activationFunctionL2#0;class#SigmoidTrainingC1#0" />
@@ -650,6 +642,19 @@
             <element signature="method#gradientCalculationL1#0;class#SigmoidTrainingC1#0" />
             <element signature="method#weightsUpdateL2#0;class#SigmoidTrainingC1#0" />
             <element signature="method#weightsUpdateL1#0;class#SigmoidTrainingC1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="110" selection-start-line="20" selection-start-column="110" selection-end-line="20" selection-end-column="110" />
+          <folding>
+            <element signature="method#ponderationL1#0;class#SigmoidTestC1#0" />
+            <element signature="method#activationFunctionL1#0;class#SigmoidTestC1#0" />
+            <element signature="method#ponderationL2#0;class#SigmoidTestC1#0" />
+            <element signature="method#activationFunctionL2#0;class#SigmoidTestC1#0" />
           </folding>
         </state>
       </provider>
