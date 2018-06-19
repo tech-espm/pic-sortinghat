@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="637d772e-e066-4c4d-a3e6-9cef9076c102" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/data/Sample.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/Sample.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/results/sigmoid/Sigmoid Results c1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/results/sigmoid/Sigmoid Results c1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/~$Sample.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java" afterDir="false" />
     </list>
@@ -16,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SigmoidTestC1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SigmoidTestC1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="20" column="110" selection-start-line="20" selection-start-column="110" selection-end-line="20" selection-end-column="110" />
+            <state relative-caret-position="1104">
+              <caret line="48" column="174" selection-start-line="48" selection-start-column="174" selection-end-line="48" selection-end-column="174" />
               <folding>
                 <element signature="method#ponderationL1#0;class#SigmoidTestC1#0" />
                 <element signature="method#activationFunctionL1#0;class#SigmoidTestC1#0" />
@@ -31,13 +33,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SigmoidTrainingC1.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SigmoidTrainingC1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="183">
+              <caret line="13" column="80" lean-forward="true" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
               <folding>
-                <element signature="method#main#0;class#SigmoidTrainingC1#0" />
                 <element signature="method#ponderationL1#0;class#SigmoidTrainingC1#0" />
                 <element signature="method#activationFunctionL1#0;class#SigmoidTrainingC1#0" />
                 <element signature="method#ponderationL2#0;class#SigmoidTrainingC1#0" />
@@ -331,9 +332,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.SigmoidTrainingC1" />
+        <item itemvalue="Application.SigmoidTestC1" />
         <item itemvalue="Application.SigmoidTestC2" />
         <item itemvalue="Application.SigmoidTrainingC2" />
-        <item itemvalue="Application.SigmoidTestC1" />
         <item itemvalue="Application.TanhTrainingC1" />
       </list>
     </recent_temporary>
@@ -381,7 +382,7 @@
       <workItem from="1527908192144" duration="1297000" />
       <workItem from="1528162682563" duration="179000" />
       <workItem from="1529267443598" duration="29000" />
-      <workItem from="1529421205632" duration="1967000" />
+      <workItem from="1529421205632" duration="4352000" />
     </task>
     <task id="LOCAL-00001" summary="Organisation Updates">
       <created>1526478824278</created>
@@ -429,7 +430,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26995000" />
+    <option name="totallyTimeSpent" value="29380000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -627,12 +628,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="48" column="174" selection-start-line="48" selection-start-column="174" selection-end-line="48" selection-end-column="174" />
+          <folding>
+            <element signature="method#ponderationL1#0;class#SigmoidTestC1#0" />
+            <element signature="method#activationFunctionL1#0;class#SigmoidTestC1#0" />
+            <element signature="method#ponderationL2#0;class#SigmoidTestC1#0" />
+            <element signature="method#activationFunctionL2#0;class#SigmoidTestC1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="183">
+          <caret line="13" column="80" lean-forward="true" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
           <folding>
-            <element signature="method#main#0;class#SigmoidTrainingC1#0" />
             <element signature="method#ponderationL1#0;class#SigmoidTrainingC1#0" />
             <element signature="method#activationFunctionL1#0;class#SigmoidTrainingC1#0" />
             <element signature="method#ponderationL2#0;class#SigmoidTrainingC1#0" />
@@ -642,19 +655,6 @@
             <element signature="method#gradientCalculationL1#0;class#SigmoidTrainingC1#0" />
             <element signature="method#weightsUpdateL2#0;class#SigmoidTrainingC1#0" />
             <element signature="method#weightsUpdateL1#0;class#SigmoidTrainingC1#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="110" selection-start-line="20" selection-start-column="110" selection-end-line="20" selection-end-column="110" />
-          <folding>
-            <element signature="method#ponderationL1#0;class#SigmoidTestC1#0" />
-            <element signature="method#activationFunctionL1#0;class#SigmoidTestC1#0" />
-            <element signature="method#ponderationL2#0;class#SigmoidTestC1#0" />
-            <element signature="method#activationFunctionL2#0;class#SigmoidTestC1#0" />
           </folding>
         </state>
       </provider>
