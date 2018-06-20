@@ -4,7 +4,7 @@
     <list default="true" id="637d772e-e066-4c4d-a3e6-9cef9076c102" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/results/sigmoid/Sigmoid Results c1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/results/sigmoid/Sigmoid Results c1.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/~$Sample.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/results/sigmoid/~$Sigmoid Results c1.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java" afterDir="false" />
     </list>
@@ -18,27 +18,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SigmoidTestC1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1104">
-              <caret line="48" column="174" selection-start-line="48" selection-start-column="174" selection-end-line="48" selection-end-column="174" />
-              <folding>
-                <element signature="method#ponderationL1#0;class#SigmoidTestC1#0" />
-                <element signature="method#activationFunctionL1#0;class#SigmoidTestC1#0" />
-                <element signature="method#ponderationL2#0;class#SigmoidTestC1#0" />
-                <element signature="method#activationFunctionL2#0;class#SigmoidTestC1#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SigmoidTrainingC1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="13" column="80" lean-forward="true" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
+            <state relative-caret-position="253">
+              <caret line="201" column="84" lean-forward="true" selection-start-line="201" selection-start-column="84" selection-end-line="201" selection-end-column="84" />
               <folding>
+                <element signature="method#main#0;class#SigmoidTrainingC1#0" />
                 <element signature="method#ponderationL1#0;class#SigmoidTrainingC1#0" />
                 <element signature="method#activationFunctionL1#0;class#SigmoidTrainingC1#0" />
                 <element signature="method#ponderationL2#0;class#SigmoidTrainingC1#0" />
@@ -382,7 +368,8 @@
       <workItem from="1527908192144" duration="1297000" />
       <workItem from="1528162682563" duration="179000" />
       <workItem from="1529267443598" duration="29000" />
-      <workItem from="1529421205632" duration="4352000" />
+      <workItem from="1529421205632" duration="4732000" />
+      <workItem from="1529433068973" duration="288000" />
     </task>
     <task id="LOCAL-00001" summary="Organisation Updates">
       <created>1526478824278</created>
@@ -430,7 +417,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29380000" />
+    <option name="totallyTimeSpent" value="30048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -438,7 +425,6 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3293944" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -464,24 +450,25 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3293944" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293944" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27190334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293944" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3293944" />
@@ -490,7 +477,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -630,9 +617,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="48" column="174" selection-start-line="48" selection-start-column="174" selection-end-line="48" selection-end-column="174" />
+        <state relative-caret-position="276">
+          <caret line="118" column="1" selection-start-line="118" selection-start-column="1" selection-end-line="118" selection-end-column="1" />
           <folding>
+            <element signature="method#main#0;class#SigmoidTestC1#0" />
             <element signature="method#ponderationL1#0;class#SigmoidTestC1#0" />
             <element signature="method#activationFunctionL1#0;class#SigmoidTestC1#0" />
             <element signature="method#ponderationL2#0;class#SigmoidTestC1#0" />
@@ -643,9 +631,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="13" column="80" lean-forward="true" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
+        <state relative-caret-position="253">
+          <caret line="201" column="84" lean-forward="true" selection-start-line="201" selection-start-column="84" selection-end-line="201" selection-end-column="84" />
           <folding>
+            <element signature="method#main#0;class#SigmoidTrainingC1#0" />
             <element signature="method#ponderationL1#0;class#SigmoidTrainingC1#0" />
             <element signature="method#activationFunctionL1#0;class#SigmoidTrainingC1#0" />
             <element signature="method#ponderationL2#0;class#SigmoidTrainingC1#0" />

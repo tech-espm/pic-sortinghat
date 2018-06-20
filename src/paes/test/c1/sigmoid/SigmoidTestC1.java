@@ -117,4 +117,3 @@ public class SigmoidTestC1 {
         return elo;
     }
 }
-
