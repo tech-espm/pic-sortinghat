@@ -135,7 +135,7 @@ public class SigmoidTrainingC1 {
 
                 globalError = errorCalculation(elo, desired, sumE, cont);
 
-                gradientL2 = gradientCalculationL2(gradientL2, eli, cont, desired, elo);
+                gradientL2 = gradientCalculationL2(gradientL2, cont, desired, elo);
                 gradientL1 = gradientCalculationL1(gradientL1, gradientL2, hlo, wl2, elo);
 
                 wl2 = weightsUpdateL2(wl2, alpha, eta, gradientL2, hlo);
