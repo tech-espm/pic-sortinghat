@@ -154,7 +154,7 @@ public class SigmoidTrainingC1 {
 
                 globalError = errorCalculation(elo, desired, sumE, cont);
 
-                gradientL2 = gradientCalculationL2(gradientL2, eli, cont, desired, elo);
+                gradientL2 = gradientCalculationL2(gradientL2, cont, desired, elo);
                 gradientL1 = gradientCalculationL1(gradientL1, gradientL2, hlo, wl2, elo);
 
                 wl2 = weightsUpdateL2(wl2, alpha, eta, gradientL2, hlo);
@@ -224,7 +224,7 @@ public class SigmoidTrainingC1 {
         return error = sumE/3;
     }
 
-    public static double[] gradientCalculationL2(double[] gradientL2, double[] eli, int cont, int[][] desired, double[] elo) {
+    public static double[] gradientCalculationL2(double[] gradientL2, int cont, int[][] desired, double[] elo) {
         for (int i = 0; i < gradientL2.length; i++) {
             gradientL2[i] = elo[i] * (1 - elo[i]) * (desired[cont][i] - elo[i]);
         }
