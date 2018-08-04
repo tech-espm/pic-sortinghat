@@ -38,7 +38,7 @@ You can find at the packages __paes.training.c1__ or __paes.training.c2__, respe
 * int minValue = 0 - _This variable is responsible for control the input's matrix;_
 * int age = 1 - _This variable is responsible for count the number of ages;_
 
-_Obs: 1 age is equals 84 iterations._
+_Obs: 1 age is equals 360 iterations._
 
 ### Methods ###
 
@@ -86,19 +86,19 @@ The output layer has __3__ neurons. The following combination represents one of 
 
 #### Hyperbolic Tangent (tanh) ####
 
-* __2 Neurons:__
+* __2 Neurons:__ non-evaluated;
  
-* __3 Neurons:__
+* __3 Neurons:__ non-evaluated;
  
-* __8 Neurons:__
+* __8 Neurons:__ non-evaluated;
 
 #### ReLU (Rectified linear unit) ####
 
-* __2 Neurons:__
+* __2 Neurons:__ non-evaluated;
  
-* __3 Neurons:__
+* __3 Neurons:__ non-evaluated;
  
-* __8 Neurons:__
+* __8 Neurons:__ non-evaluated;
   
  ___Obs:___ 
  * _NaN: Incapacibility of achieving a Numeric Value. Probably because the flutuant pointer has exploded_;
@@ -109,7 +109,7 @@ The output layer has __3__ neurons. The following combination represents one of 
 
 #### Sigmoid Function ####
 
-* __2 Neurons:__
+* __2 Neurons:__ 
  
 * __3 Neurons:__
  
@@ -117,19 +117,19 @@ The output layer has __3__ neurons. The following combination represents one of 
 
 #### Hyperbolic Tangent (tanh) ####
 
-* __2 Neurons:__
+* __2 Neurons:__ non-evaluated;
  
-* __3 Neurons:__
+* __3 Neurons:__ non-evaluated;
  
-* __8 Neurons:__
+* __8 Neurons:__ non-evaluated;
 
 #### ReLU (Rectified linear unit) ####
 
-* __2 Neurons:__
+* __2 Neurons:__ non-evaluated;
  
-* __3 Neurons:__
+* __3 Neurons:__ non-evaluated;
  
-* __8 Neurons:__
+* __8 Neurons:__ non-evaluated;
   
  ___Obs:___ 
  * _NaN: Incapacibility of achieving a Numeric Value. Probably because the flutuant pointer has exploded_;
