@@ -2,7 +2,7 @@ package paes.training.controlValues;
 
 public class ControlValues {
 
-    private int n = 7, minValue = 0, cont = 0, age = 1;
+    private int n = 3, minValue = 0, cont = 0, age = 1;
     double sumE = 0, globalError = 0;
     private double alpha = 0.0001, eta = 0.1;
 
