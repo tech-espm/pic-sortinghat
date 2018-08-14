@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="637d772e-e066-4c4d-a3e6-9cef9076c102" name="Default" comment="" />
+    <list default="true" id="637d772e-e066-4c4d-a3e6-9cef9076c102" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,38 +15,39 @@
     <session id="483208711">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.41" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="4" />
+          <entry key="java" value="6" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="6" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -53,29 +56,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/paes/training/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1729">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/paes/training/controlValues/ControlValues.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -127,6 +108,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,18 +116,147 @@
               <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
               <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="testValues" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="backPropagation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="backPropagation" type="462c0819:PsiDirectoryNode" />
+              <item name="gradientCalculation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="backPropagation" type="462c0819:PsiDirectoryNode" />
+              <item name="WeightsUpdate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="controlMethods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="controlValues" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="errorCalculation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="propagation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="propagation" type="462c0819:PsiDirectoryNode" />
+              <item name="activation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="propagation" type="462c0819:PsiDirectoryNode" />
+              <item name="ponderation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04.2 - SortingHat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04.2 - SortingHat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="paes" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="weights" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534272340614" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534274010479" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
@@ -162,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="paes.training.Main" />
       <module name="04.2 - SortingHat" />
@@ -262,8 +373,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.SigmoidTrainingC1" />
         <item itemvalue="Application.SigmoidTestC1" />
         <item itemvalue="Application.SigmoidTestC2" />
@@ -333,7 +444,8 @@
       <workItem from="1533676314672" duration="132000" />
       <workItem from="1533682798235" duration="108000" />
       <workItem from="1534127454894" duration="168000" />
-      <workItem from="1534127682463" duration="1493000" />
+      <workItem from="1534127682463" duration="1906000" />
+      <workItem from="1534273773508" duration="417000" />
     </task>
     <task id="LOCAL-00001" summary="Organisation Updates">
       <created>1526478824278</created>
@@ -381,13 +493,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36064000" />
+    <option name="totallyTimeSpent" value="36894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="127" y="70" width="240" height="698" id="Project" order="0" sideWeight="0.49856734" visible="true" weight="0.23791541" />
+      <window_info active="true" content_ui="combo" x="127" y="70" width="240" height="698" id="Project" order="0" sideWeight="0.49856734" visible="true" weight="0.24093656" />
       <window_info id="Structure" order="1" sideWeight="0.50143266" side_tool="true" weight="0.18126889" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -442,20 +553,6 @@
     <entry file="file://$PROJECT_DIR$/src/paes/training/c1/sigmoid/SigmoidTrainingC1.java" />
     <entry file="file://$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.class" />
     <entry file="file://$PROJECT_DIR$/src/paes/test/c1/sigmoid/SigmoidTestC1.java" />
-    <entry file="file://$PROJECT_DIR$/src/paes/test/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/paes/training/controlValues/ControlValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -468,11 +565,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/paes/training/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1729">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="253">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paes/test/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paes/test/testValues/TestValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/paes/training/controlValues/ControlValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
